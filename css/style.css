@@ -1,0 +1,335 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainBackground {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background: #E4EBFF;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+
+#mainContainer {
+    max-width: 1280px;
+    width: 100%;
+    padding: 96px 0px;
+    background: #FFF;
+
+}
+
+#features {
+    text-align: center;
+    color: #6941C6;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+#analytics {
+    color: #181D27;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 12px;
+
+}
+
+#selsServeProduct {
+    text-align: center;
+    margin-top: 32px;
+    font-size: 20px;
+    color: #535862;
+    font-weight: 400;
+}
+
+#teamInboxes {
+    max-width: 560px;
+    width: 100%;
+    margin-top: 89px;
+    margin-left: 32px;
+}
+
+#chatCircle {
+    border-radius: 9999px;
+    background: #F4EBFF;
+    padding: 12px;
+    width: 48px;
+    height: 48px;
+}
+
+#teamInbox {
+    color: #181D27;
+    margin-top: 20px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+#pageAndLoop {
+    color: #535862;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 16px;
+}
+
+#automation {
+    margin-top: 32px;
+    margin-left: 16px;
+    vertical-align: middle;
+}
+
+#circle {
+    vertical-align: middle;
+}
+
+#leverage {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+    color: #535862;
+}
+
+#customers {
+    margin-left: 16px;
+    margin-top: 20px;
+
+}
+
+#circleOne {
+    vertical-align: middle;
+}
+
+#humanChat {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 12px;
+    color: #535862;
+}
+
+#support {
+    margin-left: 16px;
+    margin-top: 20px;
+
+}
+
+#circleTwo {
+    vertical-align: middle;
+}
+
+#automate {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+    color: #535862;
+}
+
+#teamInboxesContainer {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#photoDiv {
+    display: inline-block;
+    margin-top: 101px;
+    margin-left: 97px;
+    vertical-align: middle;
+}
+
+#photoTwo {
+    margin-top: 96px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#deliverContainer {
+    max-width: 560px;
+    width: 100%;
+    margin-top: 89px;
+    margin-left: 101px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#zap {
+    border-radius: 9999px;
+    background: #F4EBFF;
+    padding: 12px;
+    width: 48px;
+    height: 48px;
+}
+
+#deliverBox {
+    color: #181D27;
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+#allInOne {
+    color: #535862;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 16px;
+}
+
+#customersLoop {
+    margin-top: 32px;
+    margin-left: 16px;
+    vertical-align: middle;
+}
+
+#customerCirlce {
+    vertical-align: middle;
+}
+
+#liveChat {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+
+#articles {
+    margin-top: 20px;
+    margin-left: 16px;
+}
+
+#articleCircle {
+    vertical-align: middle;
+}
+
+#articleHelp {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+
+#customerBox {
+    margin-top: 20px;
+    margin-left: 16px;
+
+}
+
+#customerBoxCircle {
+    vertical-align: middle;
+}
+
+#dontLeavePageOpen {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    vertical-align: middle;
+    margin-left: 12px;
+}
+
+#teamReports {
+    max-width: 560px;
+    width: 100%;
+    margin-top: 89px;
+    margin-left: 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#massageChat {
+    border-radius: 9999px;
+    background: #F4EBFF;
+    padding: 12px;
+}
+
+#ManageTeam {
+    color: #181D27;
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+#measureMatter {
+    color: #535862;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 16px;
+}
+
+#export {
+    margin-top: 32px;
+    margin-left: 16px;
+    vertical-align: middle;
+}
+
+#circleN {
+    vertical-align: middle;
+}
+
+#filterExport {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+
+#schedule {
+    margin-top: 20px;
+    margin-left: 16px;
+}
+
+#circleSchedule {
+    vertical-align: middle;
+}
+
+#scheduleAutomate {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+
+#connect {
+    margin-top: 20px;
+    margin-left: 16px;
+}
+
+#connectCircle {
+    vertical-align: middle;
+}
+
+#connectTools {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+
+}
+
+#photoDivv {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 101px;
+    margin-left: 97px;
+}
+
+
